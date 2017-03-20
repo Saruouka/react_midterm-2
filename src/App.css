@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+  
+}
+
+.test {
+  text-align: center;
+}
+
+.form-test {
+    display: block;
+    width: 50%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+}
+
+.Text-header{
+  font-size: 200%;
+}
+
+.App-header {
+  background-image: url("kazuend-71543.jpg");
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.App-headpart {
+
+  background-color: #00cc66;
+  height: 60px;
+  padding: 20px;
+  color: white;
+
+}
+
+.App-box {
+  background-color: #f9f9ed;
+  padding: 20px;
+  color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.App-intro {
+  font-size: 2.5em;
+  font-style: bold;
+  font-family: Verdana, sans-serif;
+}
+
+.App-content{
+  font-size:1em;
+  color: black;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
